@@ -1,3 +1,23 @@
+#navbar{
+	border:solid 4px;
+	border-color: orange;
+	max-width: auto;
+	font-size: 25px;
+	font-family: 'Russo One', sans-serif;
+	text-align: center;
+}
+
+#texto{
+	color:white;
+	text-decoration: none;
+}
+
+#texto:hover { 
+	color:#27ABE1;
+} 
+
+
+
 h1{
 	color: #3586FF;
 	text-align: center;
@@ -58,4 +78,7 @@ h2{
 
 .formulario{
 	font-size: 50px !important;
+}
+
+#logos{
 }
